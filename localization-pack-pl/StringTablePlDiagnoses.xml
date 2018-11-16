@@ -7,6 +7,7 @@
         <Contributors>
             <Name>capelow</Name>
             <Name>nexusmrsep</Name>
+            <Name>romanoza</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -179,16 +180,16 @@
             <GameDBLocalizedString>      <LocID>DIA_CLC_DESCRIPTION</LocID>             <Text>Cholera is a bacterial disease usually spread through contaminated water supplies. Modern sewage and water treatment eliminated cholera in industrialized countries.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TYF</LocID>                         <Text>Typhoid fever</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TYF_DESCRIPTION</LocID>             <Text>Typhoid fever is bacterial disease and spreads through contaminated water and food. Also it is contagious. In industrialized countries it is rare.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SLM</LocID>                         <Text>Salmonellosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SLM_DESCRIPTION</LocID>             <Text>Salmonella infection is one one of the common bacterial infection that affects human intestinal tract. Human gets infected through contaminated water or food. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMB</LocID>                         <Text>Amoebiasis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMB_DESCRIPTION</LocID>             <Text>Amoebiasis is caused by Entamoeba histolytica, the infection spreads through water or food contaminated by feces.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SLM</LocID>                         <Text>Salmonelloza</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SLM_DESCRIPTION</LocID>             <Text>Zakażenie salmonellą jest jedną z najczęstszych infekcji bakteryjnych atakujących ludzki przewód jelitowy. Człowiek zostaje zarażony zanieczyszczoną wodą lub pożywieniem.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMB</LocID>                         <Text>Pełzakowica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMB_DESCRIPTION</LocID>             <Text>Pełzakowica (ameboza) wywoływana jest przez Entamoeba histolytica, infekcja rozprzestrzenia się przez wodę lub żywność skażoną kałem.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GRD</LocID>                         <Text>Giardiasis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GRD_DESCRIPTION</LocID>             <Text>Giardia infection is one of the most common waterborne intestinal infections. Giardias can be transmitted also through personal contact or through food.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TBC</LocID>                         <Text>Tuberculosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TBC_DESCRIPTION</LocID>             <Text>Tuberculosis of the lungs is highly contagious disease caused by bacteria Mycobacterium tuberculosis affecting principally lungs, but can affect also another organs. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TUL</LocID>                         <Text>Tularaemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TUL_DESCRIPTION</LocID>             <Text>Tularaemia is an infectious disease that affects mainly skin, eyes, lymph nodes and lungs. It is caused by the bacteria known as Francisella tularensis. Tulareamia is highly contagious, potentially fatal, but can be treated effectively.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TUL</LocID>                         <Text>Tularemia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TUL_DESCRIPTION</LocID>             <Text>Tularemia jest chorobą zakaźną, która atakuje głównie skórę, oczy, węzły chłonne i płuca. Jest spowodowana przez bakterie Francisella tularensis. Tularemia jest wysoce zaraźliwa, potencjalnie śmiertelna, ale może być skutecznie leczona.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PNA</LocID>                         <Text>Pulmonary anthrax</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PNA_DESCRIPTION</LocID>             <Text>Anthrax is serious infection caused by the bacterium known as Bacillus anthracis. It is spread through the spores, which are usually by animal origin. Contact is made typically by breathing, eating or through the skin lesion.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_RBF</LocID>                         <Text>Rat-bite fever</Text>  </GameDBLocalizedString>
@@ -197,26 +198,26 @@
             <GameDBLocalizedString>      <LocID>DIA_CSD_DESCRIPTION</LocID>             <Text>Cat-scratch disease is a common infectious disease caused by Bartonella henselae. It is transmitted through cats, respectively through the cat's scratch or bite. Presence of the bacteria in human is hard to detect by usual methods of cultivation, because growth takes up to 6 weeks.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PMI</LocID>                         <Text>Pulmonary NTMB infection</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PMI_DESCRIPTION</LocID>             <Text>Pulmonary mycobacterial infection of nontuberculous type is caused by mycobacterium and it is relatively common. Often occuring in patients with depressed imunity or with preexisting pulmonary disease, but also in healthy patients.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTS</LocID>                         <Text>Pertussis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTS_DESCRIPTION</LocID>             <Text>Pertussis also known as Whooping Cough is highly contagious respiratory disease. It is caused by bacteria known as Bordetella pertussis. Before development of a vaccine, pertussis was considered a childhood disease. Now it affects people whose immunity has decreased.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LEG</LocID>                         <Text>Legionnaires disease</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LEG_DESCRIPTION</LocID>             <Text>Legionnaires disease is caused by the bacterium Legionella pneumophila. The disease is severe form of pneumonia, transmitting through person to person. Untreated Legionnaires diseases has fatal consequences.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TPF</LocID>                         <Text>Typhus fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_TPF_DESCRIPTION</LocID>             <Text>It is important not to be confused with Typhoid fever. Typhus is caused by the bacteria Rickettsia Typhi, transmitted through various types of fleas. Typhus has been decscribed since 1528. It has sudden onset of various symptoms comparable to flu.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTS</LocID>                         <Text>Krztusiec</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTS_DESCRIPTION</LocID>             <Text>Krztusiec znany również jako koklusz to wysoce zakaźna choroba układu oddechowego. Spowodowana jest przez bakterie Bordetella pertussis. Przed opracowaniem szczepionki krztuśca była uważana za chorobę dziecięcą. Teraz dotyka ludzi, których odporność się zmniejszyła.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LEG</LocID>                         <Text>Choroba legionistów</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LEG_DESCRIPTION</LocID>             <Text>Choroba legionistów wywoływana jest przez bakterię Legionella pneumophila. Choroba jest ciężką postacią zapalenia płuc, przenoszoną z człowieka na człowieka. Nieleczona choroba legionistów ma fatalne konsekwencje.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPF</LocID>                         <Text>Tyfus plamisty</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_TPF_DESCRIPTION</LocID>             <Text>Ważne jest, aby nie mylić z durem brzusznym. Tyfus jest spowodowany przez bakterię Rickettsia Typhi, przenoszoną przez różne rodzaje pcheł. Tyfus był opisywany od roku 1528. W sposób nagły pojawiają się różne objawy porównywalne do grypy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IMN</LocID>                         <Text>Infectious mononucleosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IMN_DESCRIPTION</LocID>             <Text>Infectious mononucleosis is usually caused by EBV - Epstein-Barr Virus, people usually get infected in the childhood and when they grow up, symptoms will present. There is no vaccine for the disease. In 1920's it was described as "the kissing disease".</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HPM</LocID>                         <Text>Histoplasmosis </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HPM_DESCRIPTION</LocID>             <Text>Histoplasmosis also called Cave Disease is respiratory disease caused by fungus Histoplasma Capsulatum affecting mainly the lungs. Symptoms vary greatly. Past infection creates partial protection. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASP</LocID>                         <Text>Aspergillosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASP_DESCRIPTION</LocID>             <Text>Aspergillosis is respiratory disease caused by fungus Aspergillus. If patient has weakened immune system, invasive form of the disease spreads through the lungs. Compromised lungs must undergo pulmonary surgery.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATS</LocID>                         <Text>American trypanosomias</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATS_DESCRIPTION</LocID>             <Text>American trypanosomias also known as Chagas disease is serious inflammatory infectious disease caused by the parasite Trypanosoma cruzi. If left untreated, can do serious heart and digestive complications.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATS</LocID>                         <Text>Choroba Chagasa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATS_DESCRIPTION</LocID>             <Text>Choroba Chagasa to poważna zapalna choroba zakaźna wywoływana przez pasożyta Trypanosoma cruzi. Nieleczony może powodować poważne powikłania sercowe i pokarmowe.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TXM</LocID>                         <Text>Toxoplasmosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TXM_DESCRIPTION</LocID>             <Text>Toxoplasmosis is caused due to the parasite known as Toxoplasma gondii. Symptoms are similar to common flu. Infections is spread through undercooked food, exposure to cat's feces.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BAB</LocID>                         <Text>Babesiosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BAB_DESCRIPTION</LocID>             <Text>Babesiosis is parasitic disease caused due to the parasite Babesia. It is comparable to malaria. Strain of transmit is through ticks, often presented with Lyme disease.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LYD</LocID>                         <Text>Lyme disease</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LYD_DESCRIPTION</LocID>             <Text>Lyme disease is  caused by the bite of a deer tick or back-legged tick. It can transfer a form of bacteria  Borrelia burgdorferi which directly causes disease.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LYD</LocID>                         <Text>Borelioza</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LYD_DESCRIPTION</LocID>             <Text>Borelioza jest powodowana przez ugryzienie kleszcza. Może on przenosić formę bakterii Borrelia burgdorferi, która bezpośrednio wywołuje chorobę.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HLA</LocID>                         <Text>Hemolytic anemia</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HLA_DESCRIPTION</LocID>             <Text>Hemolytic anemia happens when there is undergoing hemolysis - abnormal breakdown of red blood cells in the blood vessels or elsewhere in the human body.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TCP</LocID>                         <Text>Thrombocytopenia</Text>  </GameDBLocalizedString>
@@ -241,8 +242,8 @@
             <GameDBLocalizedString>      <LocID>DIA_OME_DESCRIPTION</LocID>             <Text>Otitis media with effusion is the condition where fluid is present in the middle ear. It usually affects children.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASO</LocID>                         <Text>ASOM</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASO_DESCRIPTION</LocID>             <Text>Acute suppurative otitis media is a very painful inflammation of the middle ear.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMT</LocID>                         <Text>Acute mastoiditis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_AMT_DESCRIPTION</LocID>             <Text>Mastoiditis refers to infection and inflammation of mastoid cells located in the mastoid process in the temporal bone (beneath the ear). </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMT</LocID>                         <Text>Ostre zapalenie wyrostka sutkowatego</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_AMT_DESCRIPTION</LocID>             <Text>Zapalenie wyrostka sutkowatego jest to infekcja i zapalenie komórek sutkowatych zlokalizowanych w wyrostku sutkowatym w kości skroniowej (poniżej ucha). </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OTS</LocID>                         <Text>Otosclerosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OTS_DESCRIPTION</LocID>             <Text>Otosclerosis refers to abnormal hardening of the bone tissue near the middle ear causing inability to transfer sounds from the middle ear to the inner ear; resulting in loss of hearing.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_OOR</LocID>                         <Text>Otorrhea</Text>  </GameDBLocalizedString>
@@ -259,8 +260,8 @@
             <GameDBLocalizedString>      <LocID>DIA_SCB_DESCRIPTION</LocID>             <Text>Chronic bronchitis refers to productive long-lasting cough along with constant irritation of the bronchial lining.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EMP</LocID>                         <Text>Emphysema</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EMP_DESCRIPTION</LocID>             <Text>Emphysema refers to a condition when the alveoli - the air sacs - are damaged or destroyed, causing shortness of breath, even in states of relaxation.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CPD</LocID>                         <Text>COPD</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CPD_DESCRIPTION</LocID>             <Text>Chronic obstructive pulmonary disease - COPD is a chronic inflammatory lung disease that causes obstructed airways from the lungs.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CPD</LocID>                         <Text>POChP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CPD_DESCRIPTION</LocID>             <Text>Przewlekła obturbacyjna choroba płuc - POChP to przewlekła zapalna choroba płuc, która powoduje zatkane drogi oddechowe z płuc..</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASM</LocID>                         <Text>Asthma</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ASM_DESCRIPTION</LocID>             <Text>Asthma refers to a condition where airways narrow, swell and produce extra mucus. It is a chronic respiratory disease and symptoms may vary from person to person.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_PMX</LocID>                         <Text>Pneumothorax</Text>  </GameDBLocalizedString>
@@ -269,8 +270,8 @@
             <GameDBLocalizedString>      <LocID>DIA_CEL_DESCRIPTION</LocID>             <Text>Cellulitis is one of the common bacterial skin infections caused mostly by streptococci and staphylococci.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ADS</LocID>                         <Text>Atopic dermatitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ADS_DESCRIPTION</LocID>             <Text>Atopic dermatitis or eczema refers to a condition that makes skin reddish and itchy. It is chronic skin disease.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LUP</LocID>                         <Text>Lupus</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LUP_DESCRIPTION</LocID>             <Text>Lupus is a systemic autoimmune disease. It is very difficult to diagnose.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LUP</LocID>                         <Text>Toczeń</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LUP_DESCRIPTION</LocID>             <Text>Toczeń (wilk) jest układową chorobą autoimmunologiczną. Bardzo trudno jest go zdiagnozować.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TRM_CMP</LocID>                         <Text>CO poisoning</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_CMP_DESCRIPTION</LocID>             <Text>Carbon monoxide poisoning typically occurs from breathing in too much carbon monoxide.</Text>  </GameDBLocalizedString>
@@ -278,8 +279,8 @@
             <GameDBLocalizedString>      <LocID>TRM_CGP_DESCRIPTION</LocID>             <Text>Chlorine gas poisoning is an illness resulting from the effects of exposure to chlorine beyond the threshold limit value.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_MTP</LocID>                         <Text>Methanol poisoning</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_MTP_DESCRIPTION</LocID>             <Text>Methanol ingestion is an uncommon form of poisoning that can cause severe metabolic disturbances, blindness, permanent neurological dysfunction and death.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LDP</LocID>                         <Text>Lead poisoning</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LDP_DESCRIPTION</LocID>             <Text>Lead poisoning is a type of metal poisoning caused by accumulated lead in the body.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LDP</LocID>                         <Text>Ołowica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LDP_DESCRIPTION</LocID>             <Text>Zatrucie ołowiem (ołowica) to rodzaj zatrucia metalem spowodowanego nagromadzeniem ołowiu w ciele.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_PCT</LocID>                         <Text>Contused lungs</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_PCT_DESCRIPTION</LocID>             <Text>Blunt injury or physical trauma to a body part, either by impact, injury or physical attack. Pulmonary contusion is present.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_PLP</LocID>                         <Text>Pulmonary laceration</Text>  </GameDBLocalizedString>
@@ -395,8 +396,8 @@
             <!-- ===================== -->
             <!-- Diagnoses - Cardiology-->
             <!-- ===================== -->
-            <GameDBLocalizedString>      <LocID>DIA_ARR</LocID>                         <Text>Acute rheumatic fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ARR_DESCRIPTION</LocID>             <Text>Acute rheumatic fever is an inflammatory disease affecting the heart, muscles, joints and the brain. Usually it develops after a simple streptococcal infection of the throat.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARR</LocID>                         <Text>Ostra gorączka reumatyczna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ARR_DESCRIPTION</LocID>             <Text>Ostra gorączka reumatyczna to choroba zapalna atakująca serce, mięśnie, stawy i mózg. Zwykle rozwija się po prostej infekcji paciorkowców w gardle.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_MST</LocID>                         <Text>Mitral stenosis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_MST_DESCRIPTION</LocID>             <Text>Mitral valve stenosis is a narrowing of the heart's mitral valve, that causes improper opening of the valve and thereby the blood flow through the valve is reduced.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_TRS</LocID>                         <Text>Tricuspid regurgitation</Text>  </GameDBLocalizedString>
@@ -460,10 +461,10 @@
             <GameDBLocalizedString>      <LocID>DIA_TBE_DESCRIPTION</LocID>             <Text>Tick-borne encephalitis is a viral tick-borne infectious disease involving brain and central nervous system.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ECS</LocID>                         <Text>Encephalitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ECS_DESCRIPTION</LocID>             <Text>Encephalitis is an inflammation of the brain, most commonly caused by an autoimmune reaction or viruses.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>Rabies</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>Rabies is a deadly virus spread by saliva of infected animals. Transmission is often through animal bites.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>Pneumococcal meningitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PMN_DESCRIPTION</LocID>             <Text>Pneumococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the pneumococcal infection.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB</LocID>                         <Text>Wścieklizna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RAB_DESCRIPTION</LocID>             <Text>Wścieklizna to śmiertelny wirus rozprzestrzeniający się przez śliny zakażonych zwierząt. Przekazywanie często odbywa się przez ukąszenia zwierząt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN</LocID>                         <Text>Pneumokokowe zapalenie opon mózgowych</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PMN_DESCRIPTION</LocID>             <Text>Zapalenie opon mózgowo-rdzeniowych jest zapaleniem (z powodu zakażenia pneumokokowego) błon pokrywających rdzeń kręgowy i mózg.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SMN</LocID>                         <Text>Staphylococcal meningitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_SMN_DESCRIPTION</LocID>             <Text>Staphylococcal meningitis is an inflammation of membranes covering the spinal cord and brain due to the staphylococcal infection.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_MIG</LocID>                         <Text>Migraine</Text>  </GameDBLocalizedString>
