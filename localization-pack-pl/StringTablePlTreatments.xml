@@ -148,8 +148,8 @@
             <GameDBLocalizedString>      <LocID>TRT_HOME_TREATMENT_DESCRIPTION</LocID>                          <Text>Pacjent będzie się leczyć w domu. Hospitalizacja nie jest wymagana. \n\nWymagany pokój: Dowolny gabinet / pokój zabiegowy</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_HIGH_PRIORITY</LocID>                       <Text>Hospitalizacja OIN</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_HIGH_PRIORITY_DESCRIPTION</LocID>           <Text>Hospitalizacja na Oddziale Intensywnego Nadzoru (OIN). \n\nWymagany pokój: Oddział intensywnego nadzoru</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_Oddział Intensywnej Terepii</LocID>                                 <Text>Hospitalizacja OIT</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_Oddział Intensywnej Terepii_DESCRIPTION</LocID>                     <Text>Hospitalizacja na Oddziale Intensywnej Terepii. \n\nWymagany pokój: Oddział Intensywnej Terepii</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_ICU</LocID>                                 <Text>Hospitalizacja OIT</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_ICU_DESCRIPTION</LocID>                     <Text>Hospitalizacja na Oddziale Intensywnej Terepii. \n\nWymagany pokój: Oddział Intensywnej Terepii</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_NORMAL</LocID>                              <Text>Regularna hospitalizacja </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_NORMAL_DESCRIPTION</LocID>                  <Text>Hospitalizacja na oddziale szpitalnym. \n\nWymagany pokój: oddział hospitalizacji</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_OBSERVATION</LocID>                         <Text>Obserwacja</Text>  </GameDBLocalizedString>
