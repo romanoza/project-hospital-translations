@@ -233,7 +233,7 @@
 
             <GameDBLocalizedString>      <LocID>EVENT_SUCCESSFUL_TEXT</LocID>                <Text>Udało ci się zakończyć zdarzenie na czas. Zyskujesz prestiż w tym dniu i nagrodę pieniężną. Gratulacje! \n\nUdane zadzenia pod rząd: {1}\nNagroda pieniężna: ${2}</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT</LocID>            <Text>Oddzia nie potrafi zdiagnozować pacjenta!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT</LocID>            <Text>Oddział nie potrafi zdiagnozować pacjenta!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_UNCLEAR_DEPARTMENT_TEXT</LocID>       <Text>Oddział pacjenta wydaje się nie mieć możliwości przeprowadzenia dalszych badań, rozważ zmianę oddziału zgodnie z listą możliwych diagnoz lub udostępnij więcej metod diagnostycznych.</Text>  </GameDBLocalizedString>
             
         </LocalizedStrings>
