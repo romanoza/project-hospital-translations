@@ -9,9 +9,8 @@
 			<Name>kubas</Name>
         </Contributors>
 
-<LocalizedStrings>
-
-                   <!-- Symptoms-->
+        <LocalizedStrings>
+            <!-- Symptoms-->
             <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY</LocID>                                 <Text>Niedobór A1At</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_A1AT_DEFICIENCY_DESCRIPTION</LocID>                     <Text>Alfa1-antytrypsyna odgrywa ważną rolę w hamowaniu szkód potencjalnie wyrządzonych przez układ odpornościowy. Pacjenci z niedoborem A1AT często doświadczają postępujące degradację tkanki płucnej. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_ABDOMINAL_CRAMPS</LocID>                                <Text>Skurczowy ból brzucha</Text>  </GameDBLocalizedString>
