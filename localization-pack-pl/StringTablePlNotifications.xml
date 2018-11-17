@@ -41,7 +41,7 @@
             <GameDBLocalizedString>      <LocID>NOTIF_AMBIGUOUS_DIAGNOSIS</LocID>            <Text>Brak jednoznacznej diagnozy!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_AMBIGUOUS_DIAGNOSIS_TEXT</LocID>       <Text>Brak jednoznacznej diagnozy! Rozważ dodanie sprzętu diagnostycznego, laboratoriów lub radiologii. Pacjent wkrótce odejdzie.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT</LocID>                   <Text>PPacjent nie może być w peni wyleczony!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT</LocID>                   <Text>Pacjent nie może być w peni wyleczony!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NOTIF_NO_TREATMENT_TEXT</LocID>              <Text><![CDATA[Leczenie zdiagnozowanej choroby nie jest dostępne: <i>{1}</i>.\nSpraw by to zadziałało, bo pacjent zbiera się do wyjścia.]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NOTIF_NO_HOSPITALIZATION</LocID>             <Text>Pacjent nie może być hospitalizowany!</Text>  </GameDBLocalizedString>
